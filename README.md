@@ -12,7 +12,7 @@
     <nav>
         <ul>
             <li>
-                <a href="(https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/)">LinkedLink</a>
+                <a href="https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/">LinkedLink</a>
             </li>
         </ul>
     </nav>
