@@ -7,7 +7,7 @@
 </head>
 <body>
     <header id="home" class="cabeceraPagina">
-        <h1><b>Mi Pagina Web</b></h1>
+        <h1><b>Sobre mi</b></h1>
     </header>
     <nav>
         <ul>
