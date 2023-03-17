@@ -62,7 +62,7 @@
     <strong>:fire: Mis estadisticas :</strong>
         <br>
         <div  markdown=1>
-            https://github-readme-streak-stats.herokuapp.com?user=Jother043&theme=tokyonight)](https://git.io/streak-stats
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
         </div>
 </body>
 </html>
