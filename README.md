@@ -59,10 +59,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-    <strong>:fire: Mis estadisticas :</strong>
-        <br>
-        <div  markdown=1>
-            https://github-readme-stats.vercel.app/api?username=Jother043&show_icons=true&theme=transparent
-        </div>
 </body>
 </html>
