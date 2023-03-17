@@ -62,7 +62,7 @@
     <strong>:fire: Mis estadisticas :</strong>
         <br>
         <div  markdown=1>
-            ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jother043&show_icons=true&theme=transparent)
+            https://github-readme-stats.vercel.app/api?username=Jother043&show_icons=true&theme=transparent
         </div>
 </body>
 </html>
