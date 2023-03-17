@@ -35,12 +35,14 @@
     <br>
         <p>Soy estudiante de programación, lenguaje principal Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
          <br>
-        :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+        :telescope: Estudio fp superior de Desarrollo de Aplicaciones Multiplataforma.
     <br>
-        :seedling: Exploring Technical Content Writing.
+        :seedling: Siempre buscando soluciones a los problemas.
     <br>
-        :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+        :zap: En mi tiempo libre me gusta programar.
     <br>
-        :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+        :mailbox:Como contactarme: <a href="https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/">
+                    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                  </a>
 </body>
 </html>
