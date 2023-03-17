@@ -31,8 +31,9 @@
     <div align="center">
         <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
-    <div align="center">
-        <h1>Sobre mi</h1>
+    ### :woman_technologist: About Me :
+    <div>
+        
     </div>
 </body>
 </html>
