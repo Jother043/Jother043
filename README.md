@@ -9,7 +9,7 @@
     <header id="home" class="cabeceraPagina">
         <h1><b>Sobre mi</b></h1>
     </header>
-          <div id="badges">
+          <div align='center' id="badges">
               <a href="https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
               </a>
