@@ -33,6 +33,6 @@
     </div>
         <strong>:woman_technologist: Sobre mi :</strong>
     <br>
-        Soy estudiante de programación, el lenguaje que principalmente estudio es java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+        <p>Soy estudiante de programación, el lenguaje que principalmente estudio es java<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 </body>
 </html>
