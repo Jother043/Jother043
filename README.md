@@ -33,9 +33,9 @@
     </div>
         <strong>:woman_technologist: Sobre mi :</strong>
     <br>
-    <ol>
-        <li><p>Soy estudiante de programación, lenguaje principal Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p></li>
-         
+    
+        <p>Soy estudiante de programación, lenguaje principal Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+     <ul>
         <li>:telescope: Estudio fp superior de Desarrollo de Aplicaciones Multiplataforma.</li>
     
         <li>:seedling: Siempre buscando soluciones a los problemas.</li>
@@ -45,6 +45,6 @@
        <li>:mailbox:Como contactarme: <a href="https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/">
                     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
                   </a></li>
-    </ol>
+    </ul>
 </body>
 </html>
