@@ -61,6 +61,6 @@
 <br>
     <strong>:fire: Mis estadisticas :</strong>
         <br>
-        [![GitHub Streak](https://github--readme--streak--stats-herokuapp-com.translate.goog?user=Jother043&theme=tokyonight-duo&hide_border=FALSO&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats))
+        <img src="[![GitHub Streak](https://github--readme--streak--stats-herokuapp-com.translate.goog?user=Jother043&theme=tokyonight-duo&hide_border=FALSO&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats))"/>
 </body>
 </html>
