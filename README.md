@@ -32,5 +32,6 @@
         <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
         <strong>:woman_technologist: Sobre mi :</strong>
+        Soy estudiante de programación, el lenguaje que principalmente estudio es java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </body>
 </html>
