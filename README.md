@@ -62,7 +62,7 @@
     <strong>:fire: Mis estadisticas :</strong>
         <br>
         <div  markdown=1>
-            [![GitHub Streak](https://github--readme--streak--stats-herokuapp-com.translate.goog?user=Jother043&theme=tokyonight&hide_border=FALSO)](https://git.io/streak-stats)
+            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jother043&theme=tokyonight)](https://git.io/streak-stats)
         </div>
 </body>
 </html>
