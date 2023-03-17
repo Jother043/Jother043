@@ -37,11 +37,11 @@
     <br>
      <ul>
         <li>:telescope: Estudio fp superior de Desarrollo de Aplicaciones Multiplataforma.</li>
-    
+    <br>
         <li>:seedling: Siempre buscando soluciones a los problemas.</li>
-    
+    <br>
         <li>:zap: En mi tiempo libre me gusta programar.</li>
-    
+    <br>
        <li>:mailbox:Como contactarme: <a href="https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/">
                     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
                   </a></li>
