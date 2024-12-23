@@ -33,10 +33,10 @@
     </div>
         <strong>:woman_technologist: Sobre mi :</strong>
     <br>
-        <p>Soy estudiante de programación, lenguaje principal Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+        <p>Soy Desarrollador, lenguaje principal Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
     <br>
      <ul>
-        <li>:telescope: Estudio fp superior de Desarrollo de Aplicaciones Multiplataforma.</li>
+        <li>:telescope: Graduado en Desarrollo de Aplicaciones Multiplataforma.</li>
     <br>
         <li>:seedling: Siempre buscando soluciones a los problemas.</li>
     <br>
