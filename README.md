@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:1f6feb&height=200&section=header&text=José%20Miguel%20Gutiérrez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20·%20DevOps%20·%20Sevilla%20🇪🇸&descSize=16&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:1f6feb&height=180&section=header&text=José%20Miguel%20Gutiérrez&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Developer%20·%20Backend%20Developer%20·%20Sevilla%20🇪🇸&descSize=15&descAlignY=56&animation=fadeIn" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jother043)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![EF SET C1](https://img.shields.io/badge/English-C1%20Advanced-2ea44f?style=for-the-badge&logo=duolingo&logoColor=white)](#)
+[![EF SET C1](https://img.shields.io/badge/English-C1%20Advanced-2ea44f?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
@@ -15,18 +17,18 @@
 
 ```python
 perfil = {
-    "nombre":      "José Miguel Gutiérrez Hernández",
-    "rol":         "DevOps Developer · Backend Developer",
-    "empresa":     "Lamaignere Cargo (Sevilla)",
-    "formacion":   "DAM — IES Padre José Miravett",
-    "ubicacion":   "Sevilla, Andalucía 🇪🇸",
-    "idiomas":     ["Español (nativo)", "Inglés C1 (EF SET)"],
-    "disponible":  True,
-    "stack":       ["Python", "Java", "FastAPI", "Django", "Spring Boot", "Azure", "Docker"]
+    "nombre":     "José Miguel Gutiérrez Hernández",
+    "rol":        "DevOps Developer · Backend Developer",
+    "empresa":    "Lamaignere Cargo — Sevilla",
+    "formacion":  "Grado Superior DAM · IES Padre José Miravett",
+    "ubicacion":  "Sevilla / Lepe, Andalucía 🇪🇸",
+    "idiomas":    ["Español (nativo)", "Inglés C1 — EF SET 61/100"],
+    "stack":      ["Python", "FastAPI", "Django", "Java", "Spring Boot", "Azure", "Docker"],
+    "open_to":    True
 }
 ```
 
-Desarrollador con perfil técnico integral. Actualmente en **Lamaignere Cargo** como **DevOps Developer**, donde combino automatización con Python, desarrollo de APIs REST con FastAPI y Django, administración de infraestructuras híbridas Cloud/On-premise y soluciones Microsoft (Azure, M365, Power BI). Apasionado por el código limpio, la automatización y los sistemas que escalan.
+Desarrollador con perfil técnico integral. Actualmente en **Lamaignere Cargo** como **DevOps Developer**, combinando automatización con Python, desarrollo de APIs REST con FastAPI y Django, infraestructura híbrida Cloud/On-premise y ecosistema Microsoft completo (Azure, M365, Power BI). Apasionado por el código limpio, la automatización y los sistemas que escalan.
 
 ---
 
@@ -53,6 +55,7 @@ Desarrollador con perfil técnico integral. Actualmente en **Lamaignere Cargo** 
 ### Automatización & Data
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
@@ -77,83 +80,94 @@ Desarrollador con perfil técnico integral. Actualmente en **Lamaignere Cargo** 
 
 ## 💼 Experiencia profesional
 
-| Período | Rol | Empresa | Ubicación |
-|---------|-----|---------|-----------|
-| Ene 2025 – Actualidad | **DevOps Developer** | Lamaignere Cargo | Sevilla · Presencial |
-| Mar 2024 – Jun 2024 | **Backend Developer Jr** (prácticas) | SGRsoft | Huelva · Presencial |
-| Jun 2023 – Sep 2024 | Cajero y Reponedor | Mercadona | Lepe · Presencial |
-| Feb 2022 – May 2022 | Técnico Informático / Programador | Polisur 2000 S.L. | Lepe · Presencial |
-| Mar 2021 – Jun 2021 | Especialista Informático (prácticas) | Wihu | Isla Cristina · Presencial |
+**🏢 Lamaignere Cargo** — DevOps Developer · Ene 2025 – Actualidad · Sevilla
 
-### 🔍 Qué hago en Lamaignere Cargo
+> Perfil técnico integral enfocado en automatización y desarrollo de soluciones a medida.
 
-```
-🔧  APIs REST con FastAPI y Django · Apps de escritorio con Java Swing
-🤖  Automatización y RPA con Python (pandas, numpy, matplotlib, seaborn)
-      UiPath y Power Automate para eliminación de tareas manuales
-☁️  Azure (AD, Exchange, M365 Admin, Purview) · Power Apps · Power BI
-🐳  Docker · Zabbix · iTop (ITSM) · Monitorización de infraestructura
-🗄️  SQL Server y PostgreSQL · Migración y análisis de datos avanzado
-🖥️  Administración Windows/Linux · DNS · Dominios · CargoWise · Business Central
-🔐  Git · GitLab · Seguridad informática · Gestión de identidades
-```
+- 🔧 **APIs REST** con FastAPI y Django · Apps de escritorio con Java Swing · Integración de flujos JSON, XML, CSV
+- 🤖 **Automatización y RPA** con Python (pandas, numpy, matplotlib, seaborn) · UiPath · Power Automate
+- ☁️ **Ecosistema Microsoft**: Azure AD · Exchange · M365 Admin · Purview · Power Apps · Power BI
+- 🐳 **Infraestructura**: Docker · Zabbix · iTop (ITSM) · Entornos híbridos Cloud/On-premise
+- 🗄️ **Bases de datos**: SQL Server y PostgreSQL · Migración y análisis avanzado de datos
+- 🖥️ **Sistemas**: Windows Server / Linux · DNS · Dominios · CargoWise · Business Central
+- 🔐 **DevOps y seguridad**: Git · GitLab · Gestión de identidades · Proyectos de seguridad informática
+
+---
+
+**🏢 SGRsoft** — Backend Developer Jr (prácticas) · Mar 2024 – Jun 2024 · Huelva
+
+- Administración de bases de datos **SQL Server**
+- Programación **Java** con Spring Boot, JPA e Hibernate
+- SQL avanzado: subconsultas, JOINs, optimización
+- **Azure az-900** — Microsoft Azure Fundamentals
+
+---
+
+**🏢 Mercadona** — Cajero y Reponedor · Jun 2023 – Sep 2024 · Lepe
+
+- Gestión de equipo y trabajo en entorno de alta demanda
+
+---
+
+**🏢 Polisur 2000 S.L.** — Técnico Informático / Programador · Feb 2022 – May 2022 · Lepe
+
+- Programación en **Visual Basic .NET** y Java
+- Mantenimiento de sistemas informáticos · Resolución de incidencias
+
+---
+
+**🏢 Wihu** — Especialista Informático (prácticas) · Mar 2021 – Jun 2021 · Isla Cristina
+
+- Instalación de FTTH a domicilios de cliente
+- HelpDesk · Administración de servidores Windows/Linux · Atención al cliente
 
 ---
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
+### ⚡ [Spring Boot API + Swagger](https://github.com/Jother043/Proyecto-Springboot-IPA-con-Swagger)
+API REST completa con arquitectura por capas, documentada con Swagger/OpenAPI y persistencia con JPA.
+`Java` `Spring Boot` `Swagger` `JPA` `Hibernate`
 
-[![Spring Boot API](https://github-readme-stats.vercel.app/api/pin/?username=Jother043&repo=Proyecto-Springboot-IPA-con-Swagger&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Jother043/Proyecto-Springboot-IPA-con-Swagger)
-[![Hibernate JPA](https://github-readme-stats.vercel.app/api/pin/?username=Jother043&repo=Hibernate-y-JPA-usando-consultas-JPQL&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Jother043/Hibernate-y-JPA-usando-consultas-JPQL)
-[![FoodCode](https://github-readme-stats.vercel.app/api/pin/?username=Jother043&repo=FoodCode&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Jother043/FoodCode)
-[![EuroGas](https://github-readme-stats.vercel.app/api/pin/?username=Jother043&repo=EuroGas&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Jother043/EuroGas)
+### 🗄️ [Hibernate & JPA con JPQL](https://github.com/Jother043/Hibernate-y-JPA-usando-consultas-JPQL)
+Persistencia avanzada con Hibernate y JPA. Consultas JPQL, mapeo de entidades y gestión de relaciones.
+`Java` `Hibernate` `JPA` `JPQL`
 
-</div>
+### 🍽️ [FoodCode](https://github.com/Jother043/FoodCode)
+App Android de gestión de recetas con cálculo nutricional. Desarrollada con IES Padre José Miravett.
+`Java` `Android` `SQLite` `API`
 
----
+### 🌍 [EuroGas](https://github.com/Jother043/EuroGas)
+Consulta y seguimiento de precios de combustibles en Europa con integración de API REST.
+`Java` `REST API`
 
-## 📊 Estadísticas de GitHub
+### 🐉 [Home of The Dragons](https://github.com/Jother043/HomeOfTheDragons)
+Videojuego desarrollado en Java con mecánicas propias y POO aplicada a lógica de juego.
+`Java` `JavaFX` `POO`
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Jother043&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jother043&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=e6edf3&langs_count=8)
-
-![Streak](https://streak-stats.demolab.com?user=Jother043&theme=github-dark&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950)
-
-</div>
-
----
-
-## 🎓 Formación
-
-| Titulación | Centro | Año |
-|-----------|--------|-----|
-| 🎓 **Grado Superior DAM** — Desarrollo de Aplicaciones Multiplataforma | IES Padre José Miravett | 2022 – 2024 |
-| 💻 **Grado Medio SMR** — Sistemas Microinformáticos y Redes | IES Padre José Miravett | 2019 – 2021 |
-| ☁️ **Azure az-900** — Microsoft Azure Fundamentals | Microsoft | 2024 |
-| 🌐 **EF SET English Certificate** — C1 Advanced (61/100) | EF SET | Sep 2025 |
+### ⛽ [GasoilGPS](https://github.com/Jother043)
+App Android con GPS, precios de carburante en tiempo real y sistema de logros por KM recorridos.
+`Kotlin` `Jetpack Compose` `Hilt` `Room` `Retrofit` `Google Maps` `MVVM`
 
 ---
 
-## ⛽ Proyecto personal — GasoilGPS
+## 🎓 Formación y certificaciones
 
-> App Android en Kotlin con GPS, precios de carburante en tiempo real y sistema de logros por kilómetros recorridos.
-
-```
-🗺️  Mapa con gasolineras y precios oficiales (API Ministerio de Energía)
-💶  Algoritmo de ruta óptima por precio de combustible
-🏆  14 logros desbloqueables por KM reales recorridos con la app activa
-🔒  Anti-trampa: velocidad validada entre 20–200 km/h · mínimo 2 KM por sesión
-```
-
-**Stack:** `Kotlin` · `Jetpack Compose` · `Hilt` · `Room` · `Retrofit` · `Google Maps` · `FusedLocation` · `MVVM + Clean Architecture`
+| | Titulación | Centro | Año |
+|-|-----------|--------|-----|
+| 🎓 | **Grado Superior DAM** — Desarrollo de Aplicaciones Multiplataforma | IES Padre José Miravett | 2022 – 2024 |
+| 💻 | **Grado Medio SMR** — Sistemas Microinformáticos y Redes | IES Padre José Miravett | 2019 – 2021 |
+| ☁️ | **Azure az-900** — Microsoft Azure Fundamentals | Microsoft | 2024 |
+| 🌐 | **EF SET English Certificate** — C1 Advanced (61/100) | EF SET | Sep 2025 |
 
 ---
 
 <div align="center">
+
+**¿Hablamos?**
+
+[![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/)
+[![GitHub](https://img.shields.io/badge/Ver%20mis%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jother043?tab=repositories)
 
 *Lepe / Sevilla, Andalucía 🇪🇸 · Abierto a nuevas oportunidades*
 
